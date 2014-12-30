@@ -16,7 +16,5 @@ int main(int argc, char * argv[])
        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
    }
 
-   //change by B
-  //change in A
-
+  //change in A second
 }
